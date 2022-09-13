@@ -36,5 +36,5 @@ And I add These Features To TranslateFarsiNevis!!:<br>
 <p dir="rtl">-دارای یک دکمه که متن داخل کلیپ‌بورد شما رو به صورت همزمان ترجمه،فارسی‌نویسی و کپی می‌کنه!</p>
 <p dir="rtl">-خیلی از ویژگی‌های <a href="https://github.com/sinajet/FarsiNevis/releases">فارسی‌نویس</a> رو هم داخلش قرار دادم!</p>
 <p dir="rtl">-و در آینده هم یه سری ویژگی‌ها بهش اضافه می‌کنم!</p>
-<h4><p dir="rtl">با تشکر از محسن(ادمین خوب پیسی‌دی) و <a href="https://github.com/AmirMahdi-Novinfar">امیرمهدی</a>(my Best Friend)(دوست و رفیق صمیمی و البته برنامه نوسیم) که برنامه رو تست کردن و ایراداتشو گفتند!</p></h4>
+<h4><p dir="rtl">با تشکر از محسن(ادمین خوب پیسی‌دی) و <a href="https://github.com/AmirMahdi-Novinfar">امیرمهدی</a>(دوست و رفیق صمیمی و البته برنامه نوسیم) که برنامه رو تست کردن و ایراداتشو گفتند!</p></h4>
 <p dir="rtl"><h2>شما می‌توانید خروجی exe برنامه را از <a href="https://github.com/sinajet/TranslateFarsiNevis/releases">(اینجا)</a> دانلود کنید<h2></p>
