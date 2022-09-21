@@ -1,5 +1,5 @@
 # TranslateFarsiNevis
-<img src="https://s6.uupload.ir/files/screenshotof_app_nn6q.png"> <br><br>
+<img src="https://s6.uupload.ir/files/screenshot_of_app_rff1.png"> <br><br>
 <h1>ENGLISH Description</h1><br>
 <h2>This program Translate Your Texts and converts Persian-Arabic language separately and Reversed </h2><br>
 
