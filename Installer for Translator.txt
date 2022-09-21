@@ -1,0 +1,10 @@
+datas=[('IconTrFa.png', '.'),('Center.png', '.'),('CenterBold.png', '.'),('GitHubLogo.png', '.'),('Left.png', '.'),('LeftBold.png', '.'),('OpenFileIcon.png', '.'),('Right.png', '.'),('RightBold.png', '.'),('SaveAsIcon.png', '.'),('Telegramlogo.png', '.'),('YouTubelogo.png', '.')],
+
+
+
+
+
+
+pyinstaller Translate.spec
+
+pyinstaller --onefile  --windowed --icon=IconTrFa.png --add-data="IconTrFa.png;."  Translate.py
