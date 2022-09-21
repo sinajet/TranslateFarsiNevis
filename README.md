@@ -17,6 +17,10 @@ And I add These Features To TranslateFarsiNevis!!:<br>
 - Some Features to Translator Part as same as <a href="https://github.com/sinajet/FarsiNevis/">FarsiNevis</a><br>
 - You can edit Your Texts Of Translation Part Befor Farsisazi It<br>
 - And I will add Another Features in future!<br>
+<h2>Changelog</h2>
+V1.01<br>
+- Fix Alignment<br>
+- Add Character counter and Translate Limitation Because of Google Translator Limitation<br>
 <h4>Thanks For Mohsening(P30Day Admin) And <a href="https://github.com/AmirMahdi-Novinfar">AmirMahdi Novinfar</a>(my Best Friend) For Testing my Program!!</h4>
 <h3>Note: The program is only in Farsi language!! If you like, edit the codes and publish them in other languages on your GitHub!(Dont Forget Tag me😉)</h3><br>
 <h2>You can Downlaod EXE files From <a href="https://github.com/sinajet/TranslateFarsiNevis/releases">(here)</a> <br></h2>
@@ -36,5 +40,9 @@ And I add These Features To TranslateFarsiNevis!!:<br>
 <p dir="rtl">-دارای یک دکمه که متن داخل کلیپ‌بورد شما رو به صورت همزمان ترجمه،فارسی‌نویسی و کپی می‌کنه!</p>
 <p dir="rtl">-خیلی از ویژگی‌های <a href="https://github.com/sinajet/FarsiNevis/releases">فارسی‌نویس</a> رو هم داخلش قرار دادم!</p>
 <p dir="rtl">-و در آینده هم یه سری ویژگی‌ها بهش اضافه می‌کنم!</p>
+<h2>تغیرات</h2>
+<p dir="rtl">V1.01</p>
+<p dir="rtl">- درست شدن و اضافه شدن چینش ها</p>
+<p dir="rtl">- اضافه شدن شمارنده کارکتر و محدودیت به در ترجمه به خاطر محدودیت ترجمه گوگل ترنسلیت Limitation</p>
 <h4><p dir="rtl">با تشکر از محسن(ادمین خوب پیسی‌دی) و <a href="https://github.com/AmirMahdi-Novinfar">امیرمهدی</a>(دوست و رفیق صمیمی و البته برنامه نوسیم) که برنامه رو تست کردن و ایراداتشو گفتند!</p></h4>
 <p dir="rtl"><h2>شما می‌توانید خروجی exe برنامه را از <a href="https://github.com/sinajet/TranslateFarsiNevis/releases">(اینجا)</a> دانلود کنید<h2></p>
